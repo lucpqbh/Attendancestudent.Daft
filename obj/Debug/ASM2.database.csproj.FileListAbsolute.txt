@@ -1,0 +1,12 @@
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\bin\Debug\ASM2.database.exe.config
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\bin\Debug\ASM2.database.exe
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\bin\Debug\ASM2.database.pdb
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.csproj.AssemblyReference.cache
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.Login.resources
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.Properties.Resources.resources
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.csproj.GenerateResource.cache
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.csproj.CoreCompileInputs.cache
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.exe
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.pdb
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.Admin.resources
+C:\Users\phamq\source\repos\ASM2.database\ASM2.database\obj\Debug\ASM2.database.User.resources
